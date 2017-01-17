@@ -10,6 +10,8 @@ namespace citp180_week001
     {
         static void Main(string[] args)
         {
+            // Randy Lee - CITP180 - Week 01
+
             // Problem 1
             Console.WriteLine("Problem 1:\n");
             Console.WriteLine("Hello World! My name is Randy Lee!\n");
